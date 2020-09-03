@@ -1,5 +1,5 @@
 # JavaBasicQ_As
-Planning to start a 30 days challenge on Instagram : https://www.instagram.com/benjivrik/
+30 days challenge launched from the community member on Instagram : https://www.instagram.com/benjivrik/
 
 
 Day 1 : Introduction.  What is java programming ?
